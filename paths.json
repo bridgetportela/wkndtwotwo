@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wkndtwo/language-masters/en/:/",
-    "/content/wkndtwo/configuration:/.helix/config.json",
-    "/content/wkndtwo/metadata:/metadata.json",
-    "/content/wkndtwo/redirects:/redirects.json",
-    "/content/wkndtwo/language-masters/placeholders:/language-masters/placeholders.json",
-    "/content/wkndtwo/language-masters/en/placeholders:/language-masters/en/placeholders.json",
-    "/content/wkndtwo/language-masters/en/placeholders:/en/placeholders.json",
-    "/content/wkndtwo/placeholders:/placeholders.json",
-    "/content/wkndtwo.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wkndtwotwo/language-masters/en/:/",
+    "/content/wkndtwotwo/configuration:/.helix/config.json",
+    "/content/wkndtwotwo/metadata:/metadata.json",
+    "/content/wkndtwotwo/redirects:/redirects.json",
+    "/content/wkndtwotwo/language-masters/placeholders:/language-masters/placeholders.json",
+    "/content/wkndtwotwo/language-masters/en/placeholders:/language-masters/en/placeholders.json",
+    "/content/wkndtwotwo/language-masters/en/placeholders:/en/placeholders.json",
+    "/content/wkndtwotwo/placeholders:/placeholders.json",
+    "/content/wkndtwotwo.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wkndtwo/"
+    "/content/wkndtwotwo/"
   ]
 }
