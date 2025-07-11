@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: https://main--wknd--aemxsc.aem.page/
-- Live: https://main--wknd--aemxsc.aem.live/
+- Preview: https://main--wkndtwo--bridgetportela.aem.page/
+- Live: https://main--wkndtwo--bridgetportela.aem.live/
 
 ## Documentation
 
