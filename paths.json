@@ -1,13 +1,10 @@
 {
   "mappings": [
-    "/content/wkndtwotwo/language-masters/en/:/",
+    "/content/wkndtwotwo/:/",
     "/content/wkndtwotwo/configuration:/.helix/config.json",
     "/content/wkndtwotwo/metadata:/metadata.json",
     "/content/wkndtwotwo/redirects:/redirects.json",
-    "/content/wkndtwotwo/language-masters/placeholders:/language-masters/placeholders.json",
     "/content/wkndtwotwo/language-masters/en/placeholders:/language-masters/en/placeholders.json",
-    "/content/wkndtwotwo/language-masters/en/placeholders:/en/placeholders.json",
-    "/content/wkndtwotwo/placeholders:/placeholders.json",
     "/content/wkndtwotwo.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
