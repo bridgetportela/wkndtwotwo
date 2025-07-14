@@ -1,13 +1,13 @@
 {
   "mappings": [
-    "/content/wkndtwotwo/:/",
-    "/content/wkndtwotwo/configuration:/.helix/config.json",
-    "/content/wkndtwotwo/metadata:/metadata.json",
-    "/content/wkndtwotwo/redirects:/redirects.json",
-    "/content/wkndtwotwo/language-masters/en/placeholders:/language-masters/en/placeholders.json",
-    "/content/wkndtwotwo.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-universal/:/",
+    "/content/wknd-universal/configuration:/.helix/config.json",
+    "/content/wknd-universal/metadata:/metadata.json",
+    "/content/wknd-universal/redirects:/redirects.json",
+    "/content/wknd-universal/language-masters/en/placeholders:/language-masters/en/placeholders.json",
+    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wkndtwotwo/"
+    "/content/wknd-universal/"
   ]
 }
